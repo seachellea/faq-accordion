@@ -12,7 +12,7 @@
 <img src="https://github.com/seachellea/faq-accordion/assets/143592080/ef60cf78-5194-4601-98d3-5db5ff6dcaaa" width="40" height="40" alt="CSS"/>
 <img src="https://github.com/seachellea/faq-accordion/assets/143592080/c8ace2e3-69e6-461f-b1f3-ae58dfd910ac" width="40" height="40" alt="Javascript"/><br><br>
 
-<a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam">View the challenge here</a>
+<a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View the challenge here</a>
 
 <h3>Screenshots</h3>
 <strong>Desktop Version</strong>
