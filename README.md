@@ -2,7 +2,7 @@
 <strong>Frontend Mentor Challenge</strong>
 <em><p>Your challenge is to build out this FAQ accordion card and get it looking as close to the design as possible.</p></em>
 <ul>
-  <li>Mobile Responsiveness</li>
+  <li>Responsive Design</li>
   <li>Animations</li>
 </ul>
 
