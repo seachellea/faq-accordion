@@ -14,7 +14,7 @@
 
 <a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View the challenge here</a>
 
-<h3>Screenshots</h3>
+<h3>Output Screenshots</h3>
 <strong>Desktop Version</strong>
 <img src="https://github.com/seachellea/faq-accordion/assets/143592080/973c837e-5404-47e5-a3dc-daf793d14c15" alt="Desktop Version">
 
