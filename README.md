@@ -1,2 +1,2 @@
-# faq-accordion
+# FAQ Accordion
 Frontend Mentor Challenge
