@@ -19,8 +19,8 @@
 </picture>
 
 
-<a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View the Frontend Mentor challenge >></a> <br>
-<a href="https://seachellea.github.io/faq-accordion/">View the Live Demo >></a>
+<a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View the Frontend Mentor Challenge »</a> <br>
+<a href="https://seachellea.github.io/faq-accordion/">Live Demo »</a>
 
 <h3>Output Screenshots</h3>
 <strong>Desktop Version</strong>
