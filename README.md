@@ -6,6 +6,8 @@
   <li>Animations</li>
 </ul>
 
+<a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View the Frontend Mentor Challenge »</a> <br>
+
 <strong>Tools Used:</strong>
 <br>
 <picture>
@@ -18,8 +20,6 @@
   <img src="https://github.com/seachellea/faq-accordion/assets/143592080/c8ace2e3-69e6-461f-b1f3-ae58dfd910ac" width="40" height="40" alt="Javascript"/>
 </picture>
 
-
-<a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam" target="_blank">View the Frontend Mentor Challenge »</a> <br>
 <a href="https://seachellea.github.io/faq-accordion/">Live Demo »</a>
 
 <h3>Output Screenshots</h3>
